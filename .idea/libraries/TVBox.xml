@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TVBox">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TVBox/本地协议clan懒人包/TVBox.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TVBox/jar/0625bc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TVBox/jar/0628xg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TVBox/jar/0627bcfix.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TVBox/jar/ts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TVBox/jar/0621ts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TVBox/jar/xm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TVBox/jar/0630bc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TVBox/jar/bc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TVBox/jar/0627bc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="MaooXB">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TVBox/MaooXB/XBiubiuLA3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TVBox/MaooXB/XBiubiuLA4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TVBox/MaooXB/XBiubiuLA2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
