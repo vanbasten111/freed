@@ -16,3 +16,6 @@
 
 ## 本地协议clan
 * [本地协议clan懒人包](https://github.com/YuanHsing/freed/tree/master/TVBox/%E6%9C%AC%E5%9C%B0%E5%8D%8F%E8%AE%AEclan%E6%87%92%E4%BA%BA%E5%8C%85)
+下载zip后解压到SD卡根目录
+本地协议clan地址:     clan://localhost/TVBox/0708local.json     
+自用在线地址:         https://chtio.net/TVBox/0708.json        
