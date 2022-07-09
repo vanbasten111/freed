@@ -212,7 +212,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vQXVnLXl1L21hb3R2L21haW4vamsvdHYvdHMudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9BdWcteXUvbWFvdHYvbWFpbi9qay90di90cy50eHQ="
           ]
         }
       ]
