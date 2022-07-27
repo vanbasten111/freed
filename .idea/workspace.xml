@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="56dea96f-74dd-4215-95dd-4c1168f737e7" name="变更" comment="via">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TVBox/0708ts.json" beforeDir="false" afterPath="$PROJECT_DIR$/TVBox/0708ts.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657334380984</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="via">
+      <created>1657343555122</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657343555122</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
